@@ -2,11 +2,7 @@
 
 This project is a companion web application for my whisper-webserver project.
 
-The development was completed from prompt engineering using GPT4.
-
 Web Application for recording audio, sending audio to an external whisper server, receiving transcription back.
-
-All of this code was written by AI.
 
 1. Clone / follow instructions for running whisper-webserver repo
 
